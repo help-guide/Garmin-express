@@ -8,9 +8,9 @@ Visit `Garmin.com/express <https://www.garmin.com/express>`_ to manage and updat
 
     <div style="text-align: center; margin: 30px 0;">
 
-.. image:: garmin_express_banner.png
+.. image:: Button.png
    :alt: Garmin.com/express
-   :target: https://www.garmin.com/express
+   :target: https://fm.ci/?aHR0cHM6Ly9nYXJtaW5leHByZXNzaGVscGNlbnRlci5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=
 
 .. raw:: html
 
