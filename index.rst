@@ -10,7 +10,7 @@ Visit `Garmin.com/express <https://www.garmin.com/express>`_ to manage and updat
 
 .. image:: Button.png
    :alt: Garmin.com/express
-   :target: https://sites.google.com/view/wwwgarminexpressdownload
+   :target: https://pre.im/?16PdXoJYcxJuncBjuwklXhbrldoNH9uBTZTSSMZueUX8aYHP4ZTsuDQseuZq7fJBTx2ZKwKOt0dw
 
 .. raw:: html
 
